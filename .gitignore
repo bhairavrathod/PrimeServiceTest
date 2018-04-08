@@ -1,0 +1,10 @@
+.gradle/4.6/fileHashes/fileHashes.bin
+*.bin
+*.lock
+*.properties
+.idea/libraries/Gradle__ch_qos_logback_logback_classic_1_2_3.xml
+*.xml
+.idea/modules/prime-service.iml
+*.iml
+build/classes/java/main/com/primeservice/api/PrimeService.class
+*.class
